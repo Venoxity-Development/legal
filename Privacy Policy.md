@@ -3,6 +3,7 @@ title: "Privacy Policy"
 subtitle: "February 2, 2024"
 ---
 
+<div class="qustion">
 <div>
   <span>
     This privacy notice for
@@ -39,3 +40,4 @@ Reading this privacy notice will help you understand your privacy rights and cho
 <span>
 SUMMARY OF KEY POINTS
 </span>
+</div>
