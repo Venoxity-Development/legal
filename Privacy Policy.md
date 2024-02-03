@@ -25,3 +25,14 @@ subtitle: "February 2, 2024"
         </span>
     </li>
 </ul>
+<ul style="margin-left: 3rem; list-style-type: disc;">
+    <li style="margin-top: 0.5rem; margin-bottom: 0.5rem;">
+        <span>
+            <span>
+                <span>
+                    Engage with us in other related ways, including any sales, marketing, or events
+                </span>
+            </span>
+        </span>
+    </li>
+</ul>
