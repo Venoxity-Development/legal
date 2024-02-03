@@ -19,9 +19,9 @@ subtitle: "February 2, 2024"
     ), such as when you:
   </span>
 </div>
-<ul style="margin-left: 3rem;list-style-type: disc;">
-  <li className="link" style="margin-top: 0.5rem;margin-bottom: 0.5rem;">
-    Visit our website at <a href="https://venoxity.dev" target="_blank" >https://venoxity.dev</a>
+<ul style="margin-left: 3rem; list-style-type: disc;">
+  <li class="link" style="margin-top: 0.5rem; margin-bottom: 0.5rem;">
+    Visit our website at <a href="https://venoxity.dev" target="_blank">https://venoxity.dev</a>
   </li>
 </ul>
 <ul style="margin-left: 3rem;list-style-type: disc;">
