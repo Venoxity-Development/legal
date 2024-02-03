@@ -17,8 +17,5 @@ subtitle: "February 2, 2024"
     your information when you use our services (
     "<strong>Services</strong>"
     ), such as when you:
-    <ul style="list-disc ml-4">
-        <li>1</li>
-    </ul>
   </span>
 </div>
