@@ -35,9 +35,9 @@ subtitle: "February 2, 2024"
 <div>
     <strong>
         <span>
-            <span>
+            <h1 style="color: rgba(238, 237, 238, .87);">
                 SUMMARY OF KEY POINTS
-            </span>
+            </h1>
         </span>
     </strong>
 </div>
