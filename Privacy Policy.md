@@ -19,8 +19,8 @@ subtitle: "February 2, 2024"
     ), such as when you:
   </span>
 </div>
-<ul style="margin-left: 3rem; list-style-type: disc;">
-  <li>
-    Hi
+<ul style="margin-left: 3rem;list-style-type: disc;">
+  <li style="margin-top: 0.5rem;margin-bottom: 0.5rem;">
+    Engage with us in other related ways, including any sales, marketing, or events
   </li>
 </ul>
