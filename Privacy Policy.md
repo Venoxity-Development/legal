@@ -12,8 +12,8 @@ subtitle: "February 2, 2024"
         </span>
     </span>
 </div>
-<ul class="list-none menu-list">
-    <li class="">
+<ul class="menu-list">
+    <li>
         <span>
             Visit our website at
         </span>
