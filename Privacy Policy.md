@@ -17,7 +17,7 @@ subtitle: "February 2, 2024"
     your information when you use our services (
     "<strong>Services</strong>"
     ), such as when you:
-    <ul style="list-style-type: disc; padding-left: 20px;">
+    <ul style="list-style-type: disc; padding-left: 40px;">
         <li>1</li>
     </ul>
   </span>
