@@ -12,8 +12,8 @@ subtitle: "February 2, 2024"
         </span>
     </span>
 </div>
-<ul style="margin-left: 3rem; list-style-type: disc;">
-    <li style="margin-top: 0.5rem; margin-bottom: 0.5rem;">
+<ul class="menu-list">
+    <li class="">
         <span>
             Visit our website at
         </span>
