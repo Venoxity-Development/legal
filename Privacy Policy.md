@@ -12,7 +12,7 @@ subtitle: "February 2, 2024"
         </span>
     </span>
 </div>
-<ul class="menu-list">
+<ul class="list-none menu-list">
     <li class="">
         <span>
             Visit our website at
