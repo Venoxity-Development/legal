@@ -36,3 +36,12 @@ subtitle: "February 2, 2024"
         </span>
     </li>
 </ul>
+<div>
+    <span>
+        <span>
+            <span>
+                <strong>Questions or concerns?</strong> Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at contact@venoxity.dev.
+            </span>
+        </span>
+    </span>
+</div>
