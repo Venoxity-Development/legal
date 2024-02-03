@@ -16,11 +16,7 @@ subtitle: "February 2, 2024"
     <li class="menu-item">
         <span>
             Visit our website at
-        </span>
-        <span>
-            <a href="https://venoxity.dev" target="_blank">https://venoxity.dev</a>
-        </span>
-        <span>
+            <a href="https://venoxity.dev" target="_blank" class="link">https://venoxity.dev</a>
             , or any website of ours that links to this privacy notice
         </span>
     </li>
@@ -28,11 +24,7 @@ subtitle: "February 2, 2024"
 <ul class="menu-list">
     <li class="menu-item">
         <span>
-            <span>
-                <span>
-                    Engage with us in other related ways, including any sales, marketing, or events
-                </span>
-            </span>
+              Engage with us in other related ways, including any sales, marketing, or events
         </span>
     </li>
 </ul>
@@ -45,15 +37,9 @@ subtitle: "February 2, 2024"
         </span>
     </span>
 </div>
-<div>
-    <br />
-</div>
-<div>
-    <br />
-</div>
-<div>
-    <br />
-</div>
+<br />
+<br />
+<br />
 <div>
     <strong>
         <span>
