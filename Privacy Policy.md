@@ -21,7 +21,7 @@ subtitle: "February 2, 2024"
 </div>
 <ul style="margin-left: 3rem;list-style-type: disc;">
   <li style="margin-top: 0.5rem;margin-bottom: 0.5rem;">
-    Visit our website at <a href="https://venoxity.dev" target="_blank" style="text-decoration: underline;" class="text-primary hover:bg-primaryButtonBackgroundHover">https://venoxity.dev</a>, or any website of ours that links to this privacy notice
+    Visit our website at <a href="https://venoxity.dev" target="_blank" style="text-decoration: underline;" class="text-primary hover:text-primaryButtonBackgroundHover">https://venoxity.dev</a>, or any website of ours that links to this privacy notice
   </li>
 </ul>
 <ul style="margin-left: 3rem;list-style-type: disc;">
