@@ -4,7 +4,7 @@ subtitle: "February 2, 2024"
 ---
 
 <div class="question">
-  <span style="text-content-secondary">
+  <span class="text-content-secondary">
     This privacy notice for
     Venoxity Development
     (
