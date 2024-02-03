@@ -45,3 +45,21 @@ subtitle: "February 2, 2024"
         </span>
     </span>
 </div>
+<div>
+    <br />
+</div>
+<div>
+    <br />
+</div>
+<div>
+    <br />
+</div>
+<div>
+    <strong>
+        <span>
+            <span>
+                SUMMARY OF KEY POINTS
+            </span>
+        </span>
+    </strong>
+</div>
