@@ -10,18 +10,14 @@ subtitle: "February 2, 2024"
 </div>
 <ul class="menu-list">
     <li class="menu-item">
-        <span>
-            Visit our website at
-            <a href="https://venoxity.dev" target="_blank" class="link">https://venoxity.dev</a>
-            , or any website of ours that links to this privacy notice
-        </span>
+          Visit our website at
+          <a href="https://venoxity.dev" target="_blank" class="link">https://venoxity.dev</a>
+          , or any website of ours that links to this privacy notice
     </li>
 </ul>
 <ul class="menu-list">
     <li class="menu-item">
-        <span>
-              Engage with us in other related ways, including any sales, marketing, or events
-        </span>
+          Engage with us in other related ways, including any sales, marketing, or events
     </li>
 </ul>
 <div>
@@ -34,10 +30,8 @@ subtitle: "February 2, 2024"
 <br />
 <div>
     <strong>
-        <span>
-            <h1 style="color: rgba(238, 237, 238, .87);">
-                SUMMARY OF KEY POINTS
-            </h1>
+        <span style="color: rgba(238, 237, 238, .87);">
+              SUMMARY OF KEY POINTS
         </span>
     </strong>
 </div>
