@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-subtitle: "February 2, 2024"
+subtitle: "February 4, 2024"
 ---
 
 <div>
