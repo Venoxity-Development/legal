@@ -11,7 +11,7 @@ subtitle: "February 4, 2024"
 <ul class="menu-list">
     <li class="menu-item">
         Visit our website at
-        <a href="https://venoxity.dev" target="_blank" class="link">https://venoxity.dev</a>
+        <a href="https://venoxity.dev" target="_blank" class="body_text link">https://venoxity.dev</a>
         , or any website of ours that links to this privacy notice
     </li>
 </ul>
@@ -44,7 +44,7 @@ subtitle: "February 4, 2024"
             </em>
         </span>
     </strong>
-    <a href="#toc" target="_blank" class="link">Table of Contents</a>
+    <a href="#toc" target="_blank" class="body_text link">Table of Contents</a>
     <span class="body_text">
         <strong>
             <em>
@@ -52,4 +52,12 @@ subtitle: "February 4, 2024"
             </em>
         </strong>
     </span>
+</div>
+<br />
+<div>
+    <span class="body_text">
+        <strong>What personal information do we process?</strong>
+        When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about
+    </span>
+      <a href="#personalinfo" target="_blank" class="body_text link">personal information you disclose to us</a>
 </div>
