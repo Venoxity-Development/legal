@@ -38,14 +38,14 @@ subtitle: "February 2, 2024"
 <br />
 <div>
     <strong>
-        <span>
+        <span class="body_text">
             <em>
                 This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our
             </em>
         </span>
     </strong>
     <a href="#toc" target="_blank" class="link">Table of Contents</a>
-    <span>
+    <span class="body_text">
         <strong>
             <em>
                 below to find the section you are looking for.
