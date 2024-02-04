@@ -12,7 +12,7 @@ subtitle: "February 4, 2024"
     <li class="menu-item">
         Visit our website at
         <span class="body_text">
-              <a href="https://venoxity.dev" target="_blank" class="link">https://venoxity.dev</a>
+            <a href="https://venoxity.dev" target="_blank" class="link">https://venoxity.dev</a>
         </span>
         , or any website of ours that links to this privacy notice
     </li>
@@ -65,5 +65,19 @@ subtitle: "February 4, 2024"
     </span>
     <span class="body_text">
         <a href="#personalinfo" target="_blank" class="link">personal information you disclose to us</a>
+    </span>
+</div>
+<br />
+<div>
+    <span class="body_text">
+        <strong>Do we process any sensitive personal information?</strong>
+        We do not process sensitive personal information.
+    </span>
+</div>
+<br />
+<div>
+    <span class="body_text">
+        <strong>Do we receive any information from third parties?</strong>
+        We do not receive any information from third parties.
     </span>
 </div>
